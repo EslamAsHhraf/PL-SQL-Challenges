@@ -3,3 +3,5 @@ Cursor/* linguist-vendored=false
 DataType/* linguist-vendored=false
 Fundamentals/* linguist-vendored=false
 Package/* linguist-vendored=false
+*.sql linguist-detectable=false
+
