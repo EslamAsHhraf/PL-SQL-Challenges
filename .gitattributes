@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
-Control Statement/* linguist-vendored=false
 Cursor/* linguist-vendored=false
 DataType/* linguist-vendored=false
 Fundamentals/* linguist-vendored=false
