@@ -46,6 +46,7 @@
 | 1 | Write a PL/SQL program to arrange the number of two variable in such a way that the small number will store in num_small variable and large number will store in num_large variable. [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Control%20Statement/Exercise-1.sql)
 | 2 | Write a PL/SQL program to check whether a date falls on weekend i.e. SATURDAY or SUNDAY. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-5.php) | [SQL](Control%20Statement/Exercise-5.sql)
 | 3 | Write a PL/SQL program to count number of employees in a specific department and check whether this department have any vacancies or not. If any vacancies, how many vacancies are in that department. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-9.php) | [SQL](Control%20Statement/Exercise-9.sql)
+| 4 | Write a PL/SQL program to count number of employees in a specific department and check whether this department have any vacancies or not. If any vacancies, how many vacancies are in that department. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-10.php) | [SQL](Control%20Statement/Exercise-9.sql)
 
 <a id = "advanced_select"></a>
 
