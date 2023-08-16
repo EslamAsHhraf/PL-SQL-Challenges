@@ -37,6 +37,33 @@
 
 ## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Challenges
 
+
+
+<a id = "fundamentals"></a>
+
+### Fundamentals
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | Write a PL/SQL block to show single and multiline comments. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-6.php) | [SQL](Exercise-6sql)|
+
+<a id = "data-type"></a>
+
+### DataType
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | Write a PL/SQL block to learn how to declare a character type variable. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-1.php) | [SQL](DataType/Exercise-1.sql)|
+| 2 | Write a PL/SQL block to insert data to a table using character type variable. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-2.php) | [SQL](DataType/Exercise-2.sql)|
+| 3 | Write a PL/SQL block to differenciate between CHAR and VARCHAR2 datatype. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-3.php) | [SQL](DataType/Exercise-3.sql)|
+| 4 | Write a PL/SQL procedure to accepts a BOOLEAN parameter and uses a CASE statement to print Unknown if the value of the parameter is NULL, Yes if it is TRUE, and No if it is FALSE. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-4.php) | [SQL](DataType/Exercise-4.sql)|
+| 5 |Write a PL/SQL program to show the upper limit of PLS_INTEGER. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-5.php) | [SQL](DataType/Exercise-5.sql)|
+| 6 | Write a PL/SQL program to show the uses of SIMPLE_INTEGER datatype. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-6.php) | [SQL](DataType/Exercise-6.sql)|
+| 7 | Write a PL/SQL program to show the uses of an unconstrained subtype, i.e., the same set of values as its base type. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-7.php) | [SQL](DataType/Exercise-7.sql)|
+| 8 | Write a PL/SQL program to show the uses of a constrained subtype. [Link](https://www.w3resource.com/plsql-exercises/datatype/plsql-datatype-exercise-8.php) | [SQL](DataType/Exercise-8.sql)|
+
+
+
 <a id = "basic_select"></a>
 
 ### Control Statement
@@ -44,9 +71,11 @@
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | Write a PL/SQL program to arrange the number of two variable in such a way that the small number will store in num_small variable and large number will store in num_large variable. [Link](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Control%20Statement/Exercise-1.sql)
-| 2 | Write a PL/SQL program to check whether a date falls on weekend i.e. SATURDAY or SUNDAY. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-5.php) | [SQL](Control%20Statement/Exercise-5.sql)
-| 3 | Write a PL/SQL program to count number of employees in a specific department and check whether this department have any vacancies or not. If any vacancies, how many vacancies are in that department. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-9.php) | [SQL](Control%20Statement/Exercise-9.sql)
-| 4 | Write a PL/SQL program to count number of employees in a specific department and check whether this department have any vacancies or not. If any vacancies, how many vacancies are in that department. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-10.php) | [SQL](Control%20Statement/Exercise-9.sql)
+| 2 | Write a Function to Check/Return whether an input number is even or odd, and execute it.[Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-3.php) | [SQL](Control%20Statement/Exercise-3.sql)
+| 3 | Write a PL/SQL program to check whether a date falls on weekend i.e. SATURDAY or SUNDAY. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-5.php) | [SQL](Control%20Statement/Exercise-5.sql)
+| 4 | Write a PL/SQL program to count number of employees in a specific department and check whether this department have any vacancies or not. If any vacancies, how many vacancies are in that department. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-9.php) | [SQL](Control%20Statement/Exercise-9.sql)
+| 5 | Write a PL/SQL program to display the description against a grade using CASE statement. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-10.php) | [SQL](Control%20Statement/Exercise-10.sql)
+| 6 | Write a PL/SQL program to display the description against a grade using CASE statement with EXCEPTION. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-11.php) | [SQL](Control%20Statement/Exercise-11.sql)
 
 <a id = "advanced_select"></a>
 
@@ -55,47 +84,15 @@
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 | Write a program in PL/SQL to display a table based detail information for the employee of ID 149 from the employees table. [Link](https://w3resource.com/plsql-exercises/cursor/plsql-cursor-exercise-8.php) |[SQL](Cursor/Exercise-8.sql) |
-| 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](Advanced%20Select/The%20PADS.sql) |
-| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](https://github.com/EslamAsHhraf/SQL-Challenges/blob/main/Advanced%20Select/Occupations.sql) |
-| 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
-| 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
 
 
-<a id = "aggregation"></a>
 
-### Fundamentals
-
+### Package
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | Write a PL/SQL block to show single and multiline comments. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-6.php) | [SQL](Exercise-6sql)                                                                               |
-| 2 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](Aggregation/Japan%20Population.sql)                                                                                     |
-| 3 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](Aggregation/Population%20Density%20Difference.sql)                                            |
-| 4 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](Aggregation/The%20Blunder.sql)  
-| 5 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](Aggregation/Top%20Earners.sql) |         
-| 6 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2018.sql) |
-| 7 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [SQL](Aggregation/Weather%20Observation%20Station%2019.sql) |
+| 1 | Create a Package to includeFunction to Check/Return whether an input number is even or odd and Stored a Stored Procedure to check whether an input date falls on weekend i.e. SATURDAY or SUNDAY | [SQL](Package/Exercise-1.sqls)|
 
 
-<a id = "basic_join"></a>
-
-### Basic Join Challenges
-
-| Number | Challenges | Solutions |
-|:------:|------------|:---------:|
-| 1 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [SQL](Basic%20Join/Average%20Population%20of%20Each%20Continent.sql) |
-| 2 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | [SQL](Basic%20Join/The%20Report.sql) |
-| 3 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [SQL](Basic%20Join/Top%20Competitors.sql) |
-| 4 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](Basic%20Join/Ollivander's%20Inventory.sql) |
-| 5 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](Basic%20Join/Challenges.sql) |
-<a id = "alternative_queries"></a>
-
-### Alternative Queries Challenges
-
-| Number |                                     Challenges                                     |                      Solutions                     |
-|:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
-|    1   | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](Alternative%20Queries/Draw%20The%20Triangle%201.sql) |
-|    2   | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)             | [SQL](Alternative%20Queries/Draw%20The%20Triangle%202.sql)               |
-|    3   | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)             | [SQL](Alternative%20Queries/Print%20Prime%20Numbers.sql)               |
 
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
