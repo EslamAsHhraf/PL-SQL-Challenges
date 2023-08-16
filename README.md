@@ -1,8 +1,8 @@
-# <img  align="center" width= 40px  src="https://w7.pngwing.com/pngs/310/475/png-transparent-database-computer-icons-computer-software-information-database-miscellaneous-angle-information-technology.png"> PL/SQL Challenges
+# <img align="center"  width =70px src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> PL/SQL Challenges
 
 <div align="center">
 
-<img width=700px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE4MWtkc3k4YnJ1ZWI3cnYxbXMwZzYxYWRrbHZybzlwYXE4Mm54OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif">
+<img width=700px src="https://bmtraders.com/images/Database/Database-5.gif">
 <div align="center">
 
 
@@ -35,7 +35,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "challenges"></a>
 
-## <img align="center"  width =70px src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Challenges
+## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Challenges
 
 <a id = "basic_select"></a>
 
