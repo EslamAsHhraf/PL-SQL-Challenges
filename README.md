@@ -49,11 +49,11 @@
 
 <a id = "advanced_select"></a>
 
-### Advanced Select Challenges
+### Cursor
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](https://github.com/EslamAsHhraf/SQL-Challenges/blob/main/Advanced%20Select/Type%20of%20Triangle.sqll) |
+| 1 | Write a program in PL/SQL to display a table based detail information for the employee of ID 149 from the employees table. [Link](https://w3resource.com/plsql-exercises/cursor/plsql-cursor-exercise-8.php) |[SQL](Cursor/Exercise-8.sql) |
 | 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](Advanced%20Select/The%20PADS.sql) |
 | 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](https://github.com/EslamAsHhraf/SQL-Challenges/blob/main/Advanced%20Select/Occupations.sql) |
 | 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
