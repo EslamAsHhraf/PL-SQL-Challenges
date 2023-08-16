@@ -15,7 +15,7 @@
 
 
 - <a href ="#about"> 📙 Overview</a>
-- <a href ="#challenges"> 🗳️ Domains</a>
+- <a href ="#challenges"> 🗳️ Challenges</a>
   - <a href ="#fundamentals"> Fundamentals</a>
   - <a href ="#data-type"> DataType</a>
   - <a href ="#control-statement"> Control Statement</a>
