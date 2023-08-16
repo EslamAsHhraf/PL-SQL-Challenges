@@ -62,11 +62,11 @@
 
 <a id = "aggregation"></a>
 
-### Aggregation Challenges
+### Fundamentals
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [SQL](Aggregation/Average%20Population.sql)                                                                               |
+| 1 | Write a PL/SQL block to show single and multiline comments. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-6.php) | [SQL](Exercise-6sql)                                                                               |
 | 2 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [SQL](Aggregation/Japan%20Population.sql)                                                                                     |
 | 3 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](Aggregation/Population%20Density%20Difference.sql)                                            |
 | 4 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](Aggregation/The%20Blunder.sql)  
