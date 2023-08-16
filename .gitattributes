@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+Control Statement/* linguist-vendored=false
+Cursor/* linguist-vendored=false
+DataType/* linguist-vendored=false
+Fundamentals/* linguist-vendored=false
+Package/* linguist-vendored=false
