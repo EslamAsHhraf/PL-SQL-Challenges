@@ -16,11 +16,11 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#challenges"> 🗳️ Domains</a>
-  - <a href ="#basic_select">  Basic Select</a>
-  - <a href ="#advanced_select"> Advanced Select</a>
-  - <a href ="#aggregation">  Aggregation</a>
-  - <a href ="#basic_join"> Basic Join</a>
-  - <a href ="#alternative_queries"> Alternative Queries </a>
+  - <a href ="#fundamentals"> Fundamentals</a>
+  - <a href ="#data-type"> DataType</a>
+  - <a href ="#control-statement"> Control Statement</a>
+  - <a href ="#cursor"> Cursor</a>
+  - <a href ="#package"> Package </a>
 - <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
@@ -71,7 +71,7 @@
 
 
 
-<a id = "basic_select"></a>
+<a id = "control-statement"></a>
 
 ### Control Statement
 
@@ -84,7 +84,7 @@
 | 5 | Write a PL/SQL program to display the description against a grade using CASE statement. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-10.php) | [SQL](Control%20Statement/Exercise-10.sql)
 | 6 | Write a PL/SQL program to display the description against a grade using CASE statement with EXCEPTION. [Link](https://www.w3resource.com/plsql-exercises/control-statement/plsql-control-statement-exercise-11.php) | [SQL](Control%20Statement/Exercise-11.sql)
 
-<a id = "advanced_select"></a>
+<a id = "cursor"></a>
 
 ### Cursor
 
@@ -93,6 +93,7 @@
 | 1 | Write a program in PL/SQL to display a table based detail information for the employee of ID 149 from the employees table. [Link](https://w3resource.com/plsql-exercises/cursor/plsql-cursor-exercise-8.php) |[SQL](Cursor/Exercise-8.sql) |
 
 
+<a id = "package"></a>
 
 ### Package
 | Number | Challenges | Solutions |
