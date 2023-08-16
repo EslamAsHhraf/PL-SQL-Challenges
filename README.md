@@ -45,7 +45,14 @@
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | Write a PL/SQL block to show single and multiline comments. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-6.php) | [SQL](Exercise-6sql)|
+| 1 | Write a PL/SQL block to calculate the incentive of an employee whose ID is 110. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-1.php) | [SQL](Fundamentals/Exercise-1.sql)|
+| 2 | Write a PL/SQL block to show an invalid case-insensitive reference to a quoted and without quoted user-defined identifier. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-2.php) | [SQL](Fundamentals/Exercise-2.sql)|
+| 3 | Write a PL/SQL block to show a reserved word can be used as a user-define identifier. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-3.php) | [SQL](Fundamentals/Exercise-3.sql)|
+| 4 | Write a PL/SQL block to show the result to neglect double quotation marks in reserved word identifier. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-4.php) | [SQL](Fundamentals/Exercise-4.sql)|
+| 5 | Write a PL/SQL block to show the result to neglect double quotation marks in reserved word identifier. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-5.php) | [SQL](Fundamentals/Exercise-5.sql)|
+| 6 | Write a PL/SQL block to show single and multiline comments. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-6.php) | [SQL](Fundamentals/Exercise-6.sql)|
+| 7 | Write PL/SQL blocks to show the declaration of variables. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-7.php) | [SQL](Fundamentals/Exercise-7.sql)|
+| 8 | Write PL/SQL blocks to show the scope and visibility of local and global identifiers. [Link](https://www.w3resource.com/plsql-exercises/fundamentals/plsql-fundamentals-exercise-8.php) | [SQL](Fundamentals/Exercise-8.sql)|
 
 <a id = "data-type"></a>
 
@@ -112,4 +119,4 @@
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/SQL-Challenges/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/PL-SQL-Challenges/blob/main/LICENSE) for more information ©EslamAsHhraf.
