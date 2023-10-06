@@ -1,4 +1,4 @@
-# <img align="center"  width =70px src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=ecf05e47z81n7cbdyycfozpf7q8ubjh56jj40rhx2su2e8rf&ep=v1_stickers_search&rid=giphy.gif&ct=s"> PL/SQL Challenges
+#  🖥️ PL/SQL Challenges
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 
 - <a href ="#about"> 📙 Overview</a>
@@ -27,7 +27,7 @@
 <a id = "about"></a>
 
 
-##  <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+##  📙 Overview
 
 <p>The solutions of  PL/SQL challenges for on <a href="https://www.w3resource.com/plsql-exercises/">w3resources</a>  executed on Oracle environment compiled with helpful Resources & references related to the challenges.</p>
 
@@ -35,7 +35,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "challenges"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Challenges
+## ✅ Challenges
 
 
 
@@ -105,7 +105,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id ="contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
